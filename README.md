@@ -1,4 +1,4 @@
-# 📊 Análise de Desempenho das Lojas do Sr. João
+# 📊 Challenge Alura Store - Análise de Desempenho das Lojas do Sr. João
 
 Este projeto tem como objetivo analisar o desempenho de quatro lojas pertencentes ao Sr. João e recomendar qual delas deve ser vendida.  
 A análise foi realizada em **Python** utilizando bibliotecas como `pandas`, `matplotlib` e `seaborn`.  
@@ -24,5 +24,13 @@ A análise foi realizada em **Python** utilizando bibliotecas como `pandas`, `ma
 
 ---
 
-## 📂 Estrutura do Projeto
+📌 ## Próximos Passos
+
+- Automatizar a atualização dos dados (ETL)
+
+- Disponibilizar dashboard interativo no Power BI ou Streamlit
+
+- Criar alertas automáticos para monitorar KPIs das lojas
+
+👨‍💻 Desenvolvido por André Villar
 
