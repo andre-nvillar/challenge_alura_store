@@ -24,7 +24,7 @@ A análise foi realizada em **Python** utilizando bibliotecas como `pandas`, `ma
 
 ---
 
-📌 ## Próximos Passos
+## 📌 Próximos Passos
 
 - Automatizar a atualização dos dados (ETL)
 
